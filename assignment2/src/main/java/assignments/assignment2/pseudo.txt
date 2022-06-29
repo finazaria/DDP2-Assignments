@@ -1,0 +1,7 @@
+Ide => bikin boolean aja
+
+Prioritas Validasi
+1. Mata kuliah telah diambil sebelumnya
+2. Matakuliah telah penuh kapasitasnya (langsung aja disitunya)
+3. Matakuliah yang bisa diambil hanya 10 (langsung)
+4. Matakuliah blm pernah diambil
